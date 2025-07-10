@@ -190,5 +190,5 @@ Real-Time_Bangla_Sign_Language_Interpreter/
 - TFLite model assumes conversion from `.keras`; ensure compatibility.
 
 ## Acknowledgments
-- Built by **Israk Ahmed** and **Esrat Jahan Riya** as part of an academic project.
+- Built by **[Israk Ahmed](https://github.com/IsrakAhmed/)** and **[Esrat Jahan Riya](https://github.com/EsratRiya)** as part of an academic project.
 - Special thanks to the open-source community for tools and libraries.
